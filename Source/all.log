@@ -1,0 +1,49 @@
+2018-03-08 18:48:41.882 [main] DEBUG  - Starting application ...
+2018-03-08 18:48:41.885 [main] DEBUG  - Loading config file
+2018-03-08 18:48:41.886 [main] DEBUG  - Loaded config file
+2018-03-08 18:48:41.888 [main] DEBUG  - Extractors created.
+2018-03-08 18:48:41.935 [main] DEBUG  - SCREENACTIVITY module started
+2018-03-08 18:48:41.937 [main] DEBUG  - CommandLine module started
+2018-03-08 18:48:42.539 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:48:42.602 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:48:43.848 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:48:43.889 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:48:45.151 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:48:45.171 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:48:46.353 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:48:46.373 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:48:47.616 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:48:47.639 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:48:48.827 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:48:48.847 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:48:50.110 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:48:50.138 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:48:51.311 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:48:51.334 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:48:52.581 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:48:52.602 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:48:53.796 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:48:53.816 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:48:55.065 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:48:55.084 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:48:56.291 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:48:56.310 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:48:57.545 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:48:57.566 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:48:58.764 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:48:58.782 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:49:00.022 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:49:00.042 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:49:01.268 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:49:01.295 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:49:02.535 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:49:02.561 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:49:03.756 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:49:03.774 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:49:05.017 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:49:05.037 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:49:06.243 [Thread-1] DEBUG  - Prepare writing screenactivity
+2018-03-08 18:49:06.263 [Thread-1] DEBUG  - Screenactivity written
+2018-03-08 18:49:06.434 [Thread-2] DEBUG  - Stopping the application ...
+2018-03-08 18:49:07.244 [Thread-1] DEBUG  - SCREENACTIVITY module stopped.
+2018-03-08 18:49:07.434 [Thread-2] DEBUG  - Application closed.
