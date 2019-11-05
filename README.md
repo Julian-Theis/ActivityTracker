@@ -25,3 +25,5 @@ This application tracks Human-Computer Interactions in Windows environments and 
  keywords = {behavioral petri nets, human-computer interaction recommendation, multi-application environments, software process mining, user behavior optimization},
 }
 ```
+
+[![HitCount](http://hits.dwyl.io/Julian-Theis/ActivityTracker.svg)](http://hits.dwyl.io/Julian-Theis/ActivityTracker)
